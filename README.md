@@ -4,7 +4,7 @@ This repository contains the implementation and analysis of a machine learning p
 # Dataset
 We utilized a publicly available dataset from Kaggle, which includes demographic information, medical history, lifestyle factors, and socioeconomic variables. Key features include:
 
-Age
+Age \n
 Gender
 Hypertension 
 Heart disease 
